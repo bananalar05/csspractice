@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+main{
+    background-color: darkgray;
+}
+body{
+    width: 100%;
+    max-width: 620px;
+    margin: auto;
+    margin-top: 10px;
+
+    border: solid 1px; color:black;
+}
+
+
+h1{
+    font-family: 'Piedra', cursive;
+    text-align: center;
+}
+
+main section{
+    background-color: darkcyan;
+    padding: 25px;
+}
+
+main h2{
+    font-family: 'Acme', sans-serif;
+    
+}
+
+p{
+    margin-bottom: 10px;
+}
+
+.images{
+    display: flex;
+    justify-content: space-between;
+    margin-rightt: 10px;
+}
+
+footer{
+    text-align: center;
+    padding: 10px;
+    background-color: darkgray;
+}
